@@ -1,0 +1,24 @@
+.textFields {
+  border-color: red;
+  border-style: dashed;
+  width: 400px;
+  height: 100px;
+  padding: 20px;
+  margin: 20px;
+}
+
+#responseHere {
+  text-align: center;
+}
+
+body {
+  border-color: pink;
+  border-style: inset;
+  width: 500px;
+  height: 400px;
+}
+
+h2 {
+  color: navy;
+  text-align: center;
+}
